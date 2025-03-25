@@ -2,3 +2,4 @@ numpy==2.1.2
 pandas
 matplotlib
 seaborn
+scikit-learn
